@@ -10,3 +10,4 @@ A list of repositories.
 ## Github topic - bioinformatics
 
 * [lapper.cr](https://github.com/sstadick/lapper.cr)
+* [VCFTools](https://github.com/diploidgenomics/vcftools)

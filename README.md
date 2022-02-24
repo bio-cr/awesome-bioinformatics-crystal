@@ -13,3 +13,4 @@ A list of repositories.
 * [VCFTools](https://github.com/diploidgenomics/vcftools)
 * [biokits](https://github.com/orangeSi/biokits)
 * [bam2msa](https://github.com/orangeSi/bam2msa)
+* [biocrystal](https://github.com/rguiscard/biocrystal)

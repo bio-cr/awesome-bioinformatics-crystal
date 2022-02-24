@@ -11,3 +11,4 @@ A list of repositories.
 
 * [lapper.cr](https://github.com/sstadick/lapper.cr)
 * [VCFTools](https://github.com/diploidgenomics/vcftools)
+* [biokits](https://github.com/orangeSi/biokits)

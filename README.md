@@ -6,3 +6,7 @@ A list of repositories.
 
 * [htslib.cr](https://github.com/bio-crystal/htslib.cr)
 * [bam-filter](https://github.com/bio-crystal/bam-filter)
+
+## Github topic - bioinformatics
+
+* [lapper.cr](https://github.com/sstadick/lapper.cr)
